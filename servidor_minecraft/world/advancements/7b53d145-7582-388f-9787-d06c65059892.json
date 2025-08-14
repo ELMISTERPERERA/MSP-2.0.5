@@ -1,0 +1,20 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-14 23:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2025-08-14 23:39:12 +0000",
+      "minecraft:badlands": "2025-08-14 23:40:36 +0000",
+      "minecraft:stony_shore": "2025-08-14 23:40:39 +0000",
+      "minecraft:forest": "2025-08-14 23:42:03 +0000",
+      "minecraft:desert": "2025-08-14 23:41:35 +0000",
+      "minecraft:jungle": "2025-08-14 23:42:14 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
